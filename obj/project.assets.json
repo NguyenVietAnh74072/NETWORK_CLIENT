@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\client_laptrinhmang\\NETWORK_PROGRAMING_CLIENT\\Client.csproj",
+      "projectUniqueName": "G:\\LEARN\\LAP_TRINH_MANG_SER_CLIENT\\client_laptrinhmang\\NETWORK_PROGRAMING_CLIENT\\Client.csproj",
       "projectName": "Client",
-      "projectPath": "G:\\client_laptrinhmang\\NETWORK_PROGRAMING_CLIENT\\Client.csproj",
+      "projectPath": "G:\\LEARN\\LAP_TRINH_MANG_SER_CLIENT\\client_laptrinhmang\\NETWORK_PROGRAMING_CLIENT\\Client.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "G:\\client_laptrinhmang\\NETWORK_PROGRAMING_CLIENT\\obj\\",
+      "outputPath": "G:\\LEARN\\LAP_TRINH_MANG_SER_CLIENT\\client_laptrinhmang\\NETWORK_PROGRAMING_CLIENT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
